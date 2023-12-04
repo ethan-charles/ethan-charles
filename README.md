@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://github.com/ethan-charles/ethan-charles/blob/main/Uvyq8xVRktYbDJ4fkM8PMYsJojt6dMoDkiG2eSXqCibXHeRkSIz57pJ2YnpAsIyKHFUpt4u5z5rGO_rA5_CaJPVdleA1zw_f_QRpcA.webp" align="center" style="" />
+<img src="https://github.com/ethan-charles/ethan-charles/blob/main/Uvyq8xVRktYbDJ4fkM8PMYsJojt6dMoDkiG2eSXqCibXHeRkSIz57pJ2YnpAsIyKHFUpt4u5z5rGO_rA5_CaJPVdleA1zw_f_QRpcA.webp" align="center" style="height= 50%" />
 </div>  
   
 
