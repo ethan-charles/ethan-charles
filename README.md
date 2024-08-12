@@ -1,3 +1,7 @@
+<img align="right" height="200" src="https://github.com/ethan-charles/ethan-charles/blob/main/eecs-logo-v.png"  />
+
+###
+
 <div align="center">
   <img height="200" src="https://github.com/ethan-charles/ethan-charles/blob/main/image.png"  />
 </div>
@@ -8,12 +12,16 @@
 
 ###
 
+<h3 align="left">👩‍💻  About Me</h3>
+
+###
+
 <p align="left">🔬 I’m currently learning Signal, Image Processing and Machine Learning.<br><br>🌱 I'm currently focusing on Image Process, Computer Vision and a little bit Natural Language Processing.<br><br>🔭 I’m currently looking for jobs in software developing and machine learning.<br><br>⚡ Fun fact: I like to collect diiferent knids of keyboards, e.g. HHKB, Keychron but not Cherry</p>
 
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ethan-charles&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://streak-stats.demolab.com?user=ethan-charles&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ethan-charles&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
@@ -66,5 +74,11 @@
 <br clear="both">
 
 <img src="https://raw.githubusercontent.com/ethan-charles/ethan-charles/output/snake.svg" alt="Snake animation" />
+
+###
+
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=ethan-charles.ethan-charles&"  />
+</div>
 
 ###
