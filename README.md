@@ -16,7 +16,7 @@
 
 ###
 
-<p align="left">🔬 I’m currently learning Signal, Image Processing and Machine Learning.<br><br>🌱 I'm currently focusing on Image Process, Computer Vision and a little bit Natural Language Processing.<br><br>🔭 I’m currently looking for jobs in software developing and machine learning.<br><br>⚡ Fun fact: I like to collect diiferent knids of keyboards, e.g. HHKB, Keychron but not Cherry</p>
+<p align="left">🔬 I’m currently learning Signal, Image Processing and Machine Learning.<br><br>🌱 I'm currently focusing on Image Process, Computer Vision and a little bit Natural Language Processing.<br><br>🔭 I’m currently looking for jobs in software developing and machine learning.<br><br>⚡ FUN FACT: I like to collect diiferent knids of keyboards, e.g. HHKB, Keychron but not Cherry</p>
 
 ###
 
@@ -65,12 +65,18 @@
 
 ###
 
-<div align="left">
+<div align="center">
   <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=.ethanlu&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
   <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=nechy&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   <a href="https://www.linkedin.com/in/yichen-lu-309b48289/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
 </div>
+
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/ethan-charles/ethan-charles/output/snake.svg" alt="Snake animation" />
 
 ###
