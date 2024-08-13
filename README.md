@@ -8,7 +8,7 @@
 
 ###
 
-<h2 align="left">Hi 👋! My name is Yichen Lu.
+<h2 align="left">Hi 👋! My name is Yichen Lu. <br/>
   I’m a graduate student studying Electrical and Computer Engineering at the University of Michigan, Ann Arbor.</h2>
 
 ###
