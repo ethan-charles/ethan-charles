@@ -16,7 +16,7 @@
 
 ###
 
-<p align="left">🔬 I’m currently learning Signal, Image Processing and Machine Learning.<br><br>🌱 I'm currently focusing on Image Process, Computer Vision and a little bit Natural Language Processing.<br><br>🔭 I’m currently looking for jobs in software developing and machine learning.<br><br>⚡ FUN FACT: I like to collect diiferent knids of keyboards, e.g. HHKB, Keychron but not Cherry</p>
+<p align="left">🔬 I’m currently learning Signal, Image Processing and Machine Learning.<br><br>🌱 I'm currently focusing on Image Process, Computer Vision and a little bit Natural Language Processing.<br><br>🔭 I’m currently looking for jobs in software developing and machine learning.<br><br>⚡ FUN FACT: I like to collect diiferent knids of keyboards, e.g. HHKB, Keychron except Cherry</p>
 
 ###
 
